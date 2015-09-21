@@ -1,0 +1,14 @@
+{
+    "docset_files": [
+            "new/newschema/Docset.json",
+            "new/fenxu/Docset.json"
+    ],
+    "build_config": {
+        "incremental": "true",
+        "force_build": "true",
+        "notification_subscribers":[
+            "OPBuild@microsoft.com",
+            "clixcbdev@microsoft.com"
+        ]
+    }
+}
